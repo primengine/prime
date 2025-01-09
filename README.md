@@ -1,3 +1,10 @@
+# Welcome Prime Engine 1.0.0 Open Beta Release!
+### Improved AI Engine speed
+### Improved AI models structure
+### Refractored old LLM models
+### Improved AI agents
+### Major and minor bug fixes.
+
 # Prime Engine - Solana AI Agents Creating Framework
 
 Prime is a powerful, modular, and highly extensible framework designed for developers building applications that require a seamless blend of performance, flexibility, and scalability. With Prime, you can harness the power of modern tools to craft cutting-edge solutions across industries.
