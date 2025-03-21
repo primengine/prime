@@ -5,7 +5,7 @@
 ### Improved AI agents
 ### Major and minor bug fixes.
 
-# Prime Engine - Solana AI Agents Creating Framework
+# Prime Engine - BNB Chain AI Agents Creating Framework
 
 Prime is a powerful, modular, and highly extensible framework designed for developers building applications that require a seamless blend of performance, flexibility, and scalability. With Prime, you can harness the power of modern tools to craft cutting-edge solutions across industries.
 
@@ -15,9 +15,9 @@ Prime is a powerful, modular, and highly extensible framework designed for devel
 This project is powered by a single, official smart contract address. Please ensure that you interact only with the following address to avoid fraud or misrepresentation:
 
 ## Contract Address $PRIME:
-`pr1Me7tWgYawfbZMLQDxoL7bD6KhyBYctp72rEengmW`
+`soon`
 
-## DEX: https://dexscreener.com/solana/pr1Me7tWgYawfbZMLQDxoL7bD6KhyBYctp72rEengmW
+## DEX: https://dexscreener.com/soon
 ## WEB: https://primengine.ai/
 ## X: https://x.com/primengineai
 ## TG: https://t.me/primengineai
@@ -59,7 +59,7 @@ from prime import CodeAgent, DuckDuckGoSearchTool, HfApiModel
 
 agent = CodeAgent(tools=[DuckDuckGoSearchTool()], model=HfApiModel())
 
-agent.run("Tell me Solana and Bitcoin price in March 2025")
+agent.run("Tell me BNB Chain and Bitcoin price in March 2025")
 ```
 
 
@@ -80,7 +80,7 @@ If you use `prime` in your publication, please cite it by using the following Bi
 
 ```bibtex
 @Misc{prime,
-  title =        {`prime`: The easiest way to build efficient solana agentic systems.},
+  title =        {`prime`: The easiest way to build efficient BNB Chain agentic systems.},
   author =       {primengine inc.},
   howpublished = {\url{https://github.com/primengine/prime}},
   year =         {2025}
